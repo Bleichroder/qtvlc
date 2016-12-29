@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>media_player.png</file>
+        <file>videoMask.png</file>
+        <file>play.png</file>
+        <file>next.png</file>
+        <file>pause.png</file>
+        <file>previous.png</file>
+        <file>stop.png</file>
+        <file>list.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,5 @@
+groupName#视频直播
+CCTV1#http://cctv1.vtime.cntv.cloudcdn.net:8000/live/flv/channel14?AUTH=AW5SoCotUP+w/TliHwVgJxWnQe4CJLWylW1h63SGGfldR0dvYINQ+YcPTPTYgiLEsCwiqqApiI0WZx0DgCF4nw==
+123#http://vshare.ys7.com/hcnp/486864989_1_1_1_0_183.136.184.7_6500.m3u8
+李工#rtsp://admin:123456ab@192.168.1.108:554/h264/ch1/main/av_stream
+视频#udp://@:1234
